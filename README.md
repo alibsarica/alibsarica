@@ -1,5 +1,5 @@
-## Hi there 👋
+## Hello there 👋
 
-My name is Ali Batu and I am currently studying at Bilkent University as a Computer Science Undergraduate<br>
--I am currently learning Java & Python at the moment<br>
--I had a small portion of experience with Unity
+My name is Ali Batu Sarıca and I am currently a freshman student at Bilkent University <br>
+-I am currently learning Java & Python <br>
+-I am interested in developing games in Unity at the moment
