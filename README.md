@@ -1,9 +1,11 @@
-## Hello there 👋
+## Hello there 👋 
 
-My name is Ali Batu Sarıca<br>
--I am currently a freshman student at Bilkent University <br>
--I am currently learning Java, Python and C# <br>
--I am currentl interested in game development, AI and cyber-security.<br>
-How to reach me:<br>
-https://www.instagram.com/alibsarica/ via DM
+My name is Ali Batu and I'm: <br>
+- currently a freshman student at Bilkent University. <br>
+- learning Java as it is our freshman year subject. <br>
+- interested in topics like game development and cyber-security.<br>
+<br>
+If you wish to reach me, you can: <br>
+- DM me https://www.instagram.com/alibsarica/,<br>
+- or mail me: batu.sarica@ug.bilkent.edu.tr.
 
